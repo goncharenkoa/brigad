@@ -1,21 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
-@font-face {
-  font-family: "AbeatbyKa";
-  font-style: normal;
-  font-weight: normal;
-  src: url("../fonts/AbeatbyKai.eot?#iefix") format("embedded-opentype"), url("../fonts/AbeatbyKai.woff2") format("woff2"), url("../fonts/AbeatbyKai.woff") format("woff"), url("../fonts/AbeatbyKai.ttf") format("truetype"), url("../fonts/AbeatbyKai.svg#AbeatbyKa") format("svg"); }
-
-html {
-  position: relative;
-  min-height: 100%; }
-
-body {
-  margin: 0;
-  padding: 0;
-  margin: 0 0 130px;
-  /* bottom = footer height */ }
-
 @font-face {
   font-family: "AbeatbyKa";
   font-style: normal;
@@ -296,4 +279,4 @@ body {
       font-weight: 500;
       margin-top: 20px; } }
 
-/*# sourceMappingURL=maps/style.css.map */
+/*# sourceMappingURL=../maps/states/responsive.css.map */
